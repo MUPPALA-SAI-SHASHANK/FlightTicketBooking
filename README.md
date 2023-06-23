@@ -70,14 +70,12 @@ And Note:
 
 # Here are some of the screenshots:
 
-![image](https://github.com/MUPPALA-SAI-SHASHANK/FlightTicketBooking/assets/108987073/ccdd99a9-c8db-419b-9c35-5bf4ef1476fa)
+![image](https://github.com/MUPPALA-SAI-SHASHANK/FlightTicketBooking/assets/108987073/bfd87067-e98c-41e7-8576-bca8f7fac635)
 
-![image](https://github.com/MUPPALA-SAI-SHASHANK/FlightTicketBooking/assets/108987073/4a630fd6-2a07-45a9-84f6-8f9e82903380)
+![image](https://github.com/MUPPALA-SAI-SHASHANK/FlightTicketBooking/assets/108987073/279c7420-31db-48ca-af03-f66c3da1c4fd)
 
-![image](https://github.com/MUPPALA-SAI-SHASHANK/FlightTicketBooking/assets/108987073/40e7c235-ec90-4b27-8a78-3c82b9db8ad0)
+![image](https://github.com/MUPPALA-SAI-SHASHANK/FlightTicketBooking/assets/108987073/9e647049-935e-4b42-a8f7-7dee69493673)
 
-![image](https://github.com/MUPPALA-SAI-SHASHANK/FlightTicketBooking/assets/108987073/80208f7c-cdaf-472f-a699-47e87ae1fcae)
+![image](https://github.com/MUPPALA-SAI-SHASHANK/FlightTicketBooking/assets/108987073/20b1d748-ba1c-494b-bc8f-cc9cf52a1c4c)
 
-![image](https://github.com/MUPPALA-SAI-SHASHANK/FlightTicketBooking/assets/108987073/9bd6bf2e-d2a6-42cf-b6dd-6512e2440a0f)
-
-
+![image](https://github.com/MUPPALA-SAI-SHASHANK/FlightTicketBooking/assets/108987073/f12e26b9-48df-4b78-b424-65061fd98638)
