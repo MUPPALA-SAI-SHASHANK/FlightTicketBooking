@@ -38,7 +38,7 @@
 <br><br>
 
 
-**Database Name:** otrsphp
+**Database Name:** otrsphp1
 
 **Recommended PHP Version 7**
 
@@ -48,14 +48,14 @@
 
 **Admin Login Details**
 
-Email   : admin@admin.com
+Email   : admin@admin.com<br>
 Password: Password@123
 
 **Passenger Login Details**
 
 A demo acount is 
 
-Email   : abc@mail.com
+Email   : abc@mail.com<br>
 Password: abc@123
 
 OR sign up with your own details!!
